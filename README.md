@@ -1,4 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Kasun Wijerathna</h1>
+<h4 align="left">I'm from Sri-Lanka. I have been studying software engineering since 2020 as a undergraduate student at University of Westminster Collab with Informatics Institute of Technology. </h4>
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kasun.wijerathna.545/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kasunwijerathnaaa/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kasun-wijerathna-6b63a31b8/) 
